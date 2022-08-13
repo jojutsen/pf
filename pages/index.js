@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { IoLogoGithub, IoLogoInstagram, IoMdClose } from 'react-icons/io';
-import { FaArtstation, IoLogoDev } from 'react-icons/fa';
+import { FaArtstation, FaDev } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
 
 const social = [
@@ -14,7 +14,7 @@ const social = [
 	{
 		name: 'Dev',
 		url: 'https://dev.to/ryanfrf',
-		icon: <IoLogoDev size={24} />,
+		icon: <fFaDev size={24} />,
 	},
 ];
 
