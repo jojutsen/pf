@@ -5,23 +5,23 @@ function MyApp({ Component, pageProps }) {
 	return (
 		<>
 			<NextSeo
-				title='mbahArip Homepage'
-				description='Arief Rachmawan personal page.'
+				title='paddd | HOME'
+				description='Ryan frf Personal Page.'
 				canonical='https://www.mbaharip.me/'
 				openGraph={{
 					url: 'https://www.mbaharip.me/',
-					title: 'mbahArip Homepage',
-					description: 'Arief Rachmawan personal page.',
+					title: 'paddd | HOME',
+					description: 'Ryan frf Personal Page.',
 					images: [
 						{
 							url: 'https://www.mbaharip.me/og-img.png',
 						},
 					],
-					site_name: 'mbahArip Homepage',
+					site_name: 'paddd| HOME',
 				}}
 				twitter={{
-					handle: '@mbaharip_',
-					site: '@mbaharip_',
+					handle: '@ryan.frf',
+					site: '@ryan.frf',
 					cardType: 'summary_large_image',
 				}}
 			/>
