@@ -14,7 +14,7 @@ const social = [
 	{
 		name: 'Dev',
 		url: 'https://dev.to/ryanfrf',
-		icon: <fFaDev size={24} />,
+		icon: <FaDev size={24} />,
 	},
 ];
 
