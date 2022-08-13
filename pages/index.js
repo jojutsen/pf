@@ -6,29 +6,31 @@ import { FaArtstation } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
 
 const social = [
+<!--
 	{
 		name: 'Facebook',
-		url: 'https://www.facebook.com/mbaharip07',
+		url: 'https://',
 		icon: <IoLogoFacebook size={24} />,
 	},
 	{
 		name: 'Twitter',
-		url: 'https://twitter.com/mbaharip_',
+		url: 'https://',
 		icon: <IoLogoTwitter size={24} />,
 	},
 	{
 		name: 'Github',
-		url: 'https://www.github.com/mbaharip',
+		url: 'https://',
 		icon: <IoLogoGithub size={24} />,
 	},
+-->
 	{
-		name: 'Linkedin',
-		url: 'https://www.linkedin.com/in/mbaharip/',
+		name: 'Instagram',
+		url: 'https://instagram.com/ryan.frf',
 		icon: <IoLogoLinkedin size={24} />,
 	},
 	{
-		name: 'Artstation',
-		url: 'https://www.artstation.com/mbaharip',
+		name: 'Web',
+		url: 'https://ryanfrf.ga',
 		icon: <FaArtstation size={24} />,
 	},
 ];
