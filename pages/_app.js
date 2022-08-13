@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
 					description: 'Ryan frf Personal Page.',
 					images: [
 						{
-							url: 'https://ryan.vercel.app/frf.png',
+							url: 'https://github.com/jojutsen/pf/blob/main/public/frf.png',
 						},
 					],
 					site_name: 'paddd| HOME',
