@@ -60,7 +60,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className='absolute bottom-0 left-0 p-0 m-0 flex items-end md:w-auto w-2/3'>
-					<Image src={`/under.png`} alt={`Under Construction`} width={1077 / 2.5} height={658 / 2.5} objectFit={`contain`} />
+					<Image src={`/underz.png`} alt={`Under Construction`} width={1077 / 2.5} height={658 / 2.5} objectFit={`contain`} />
 				</div>
 			</div>
 		</div>
