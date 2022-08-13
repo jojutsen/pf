@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
 					description: 'Ryan frf Personal Page.',
 					images: [
 						{
-							url: 'https://www.mbaharip.me/og-img.png',
+							url: './public/frf.png',
 						},
 					],
 					site_name: 'paddd| HOME',
