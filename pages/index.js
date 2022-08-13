@@ -1,32 +1,15 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { IoLogoFacebook, IoLogoTwitter, IoLogoGithub, IoLogoLinkedin, IoMdClose } from 'react-icons/io';
+import { IoLogoGithub, IoMdClose } from 'react-icons/io';
 import { FaArtstation } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
 
 const social = [
-<!--
-	{
-		name: 'Facebook',
-		url: 'https://',
-		icon: <IoLogoFacebook size={24} />,
-	},
-	{
-		name: 'Twitter',
-		url: 'https://',
-		icon: <IoLogoTwitter size={24} />,
-	},
 	{
 		name: 'Github',
 		url: 'https://',
 		icon: <IoLogoGithub size={24} />,
-	},
--->
-	{
-		name: 'Instagram',
-		url: 'https://instagram.com/ryan.frf',
-		icon: <IoLogoLinkedin size={24} />,
 	},
 	{
 		name: 'Web',
