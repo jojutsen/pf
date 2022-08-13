@@ -60,7 +60,7 @@ export default function Home() {
 					))}
 				</div>
 				<div className='w-2/3 h-full mx-auto flex flex-col items-center justify-center gap-8'>
-					<Image src={`/frf.svg`} alt={`ryanfrf`} width={imgSize.width} height={imgSize.height} objectFit={`contain`} />
+					<Image src={`/frf.png`} alt={`ryanfrf`} width={imgSize.width} height={imgSize.height} objectFit={`contain`} />
 					<div className={`w-full md:flex gap-4 overflow-hidden justify-center hidden`}>
 						{social.map((item) => (
 							<Link key={item.name} href={item.url}>
