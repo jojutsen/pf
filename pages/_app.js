@@ -7,14 +7,14 @@ function MyApp({ Component, pageProps }) {
 			<NextSeo
 				title='paddd | HOME'
 				description='Ryan frf Personal Page.'
-				canonical='https://www.mbaharip.me/'
+				canonical='https://ryanfrf.vercel.app/'
 				openGraph={{
-					url: 'https://www.mbaharip.me/',
+					url: 'https://ryan.vercel.app/',
 					title: 'paddd | HOME',
 					description: 'Ryan frf Personal Page.',
 					images: [
 						{
-							url: './public/frf.png',
+							url: 'https://ryan.vercel.app/frf.png',
 						},
 					],
 					site_name: 'paddd| HOME',
