@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { IoLogoGithub, IoLogoInstagram, IoLogoDev, IoMdClose } from 'react-icons/io';
-import { FaArtstation } from 'react-icons/fa';
+import { IoLogoGithub, IoLogoInstagram, IoMdClose } from 'react-icons/io';
+import { FaArtstation, IoLogoDev } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
 
 const social = [
