@@ -9,7 +9,7 @@ const social = [
 	{
 		name: 'Instagram',
 		url: 'https://instagram.com/ryan.frf',
-		icon: <IoLogoGithub size={24} />,
+		icon: <IoLogoInstagram size={24} />,
 	},
 	{
 		name: 'Landing Page',
