@@ -44,6 +44,7 @@ export default function Home() {
 						</Link>
 					))}
 				</div>
+<audio autoplay="autoplay" hidden="hidden" src="/pages/9am.mp3"></audio>
 				<div className='w-2/3 h-full mx-auto flex flex-col items-center justify-center gap-8'>
 					<Image src={`/frf.png`} alt={`ryanfrf`} width={imgSize.width} height={imgSize.height} objectFit={`contain`} />
 					<div className={`w-full md:flex gap-4 overflow-hidden justify-center hidden`}>
